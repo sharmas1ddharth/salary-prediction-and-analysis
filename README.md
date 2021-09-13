@@ -1,6 +1,6 @@
-Project Name
+Salary Analysis and Prediction
 ==============================
-Project Description
+Notebook : https://drive.google.com/file/d/1sPvEVnim0A33sYjibkhgL1mkgGcXX93f/view?usp=sharing
 
 Project Organization
 ------------
